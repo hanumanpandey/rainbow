@@ -6,5 +6,6 @@ class Color {
  String voilet;
  String orange;
  String skyBlue;
+ String name;
 
 }
