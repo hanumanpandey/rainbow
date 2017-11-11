@@ -3,5 +3,6 @@ class Color {
  String blue;
  String green;
  String yellow;
+ String voilet;
 
 }
