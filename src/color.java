@@ -4,5 +4,6 @@ class Color {
  String green;
  String yellow;
  String voilet;
+ String orange;
 
 }
