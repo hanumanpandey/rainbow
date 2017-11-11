@@ -3,5 +3,6 @@ class Color {
  String green;
  String yellow;
  String orange;
+ String name;
 
 }
