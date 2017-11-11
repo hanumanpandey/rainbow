@@ -1,4 +1,5 @@
 class Color {
- String red;:
+ String red;
+ String green;
 
 }
